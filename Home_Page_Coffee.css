@@ -232,9 +232,11 @@
     font-size: 17px;
     position: relative;
     isolation: isolate;
-    
-    
   }
+.container .home_header .HEAD-register .button #btn-trans{
+    text-decoration: none;
+    color: rgb(248, 253, 249);
+}
 .container .home_header .HEAD-register .button:before {
     content: "";
     height: 0;
